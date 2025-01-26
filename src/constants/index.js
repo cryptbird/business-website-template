@@ -38,23 +38,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Quick Access",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our search engine provides rapid results for files, apps, and settings.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Your privacy is our priority. We ensure your data stays on your device.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Customizable Options",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Tailor your search settings for an experience that suits your needs.x",
   },
 ];
 
@@ -62,7 +62,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "The most intuitive and efficient search tool I've used. It's like having a personal assistant for my PC!",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -70,17 +70,17 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "A must-have tool for anyone with a busy digital life. I can’t imagine working without it.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Freelancer",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Finding files has never been this easy. Highly recommended!",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Graphic Designer",
     img: people03,
   },
 ];
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Early User Enrolls",
+    value: "5800+",
   },
   {
     id: "stats-2",
     title: "Trusted by Company",
-    value: "230+",
+    value: "13+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Files Searched",
+    value: "230M+",
   },
 ];
 
